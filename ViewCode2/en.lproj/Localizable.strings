@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ViewCode2
+
+  Created by Jonatas Alves santos on 30/03/22.
+  
+*/
+"WELCOME" = "Welcome!";
+"MAIN" = "Let's workout?";
+"LOGIN" = "Login";
+"SIGNUP" = "Sign Up";
+"PHONE" = "Phone";
+

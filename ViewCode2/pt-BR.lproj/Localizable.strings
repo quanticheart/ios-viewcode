@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ViewCode2
+
+  Created by Jonatas Alves santos on 30/03/22.
+  
+*/
+"WELCOME" = "Bem vindo!";
+"MAIN" = "Bora malhar?";
+"LOGIN" = "Login";
+"SIGNUP" = "Cadastrar";
+"PHONE" = "Telefone";
+
